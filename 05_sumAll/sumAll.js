@@ -1,5 +1,4 @@
 const sumAll = function(min, max) {
-    // Ensure num1 is the smaller number and num2 is the larger
   const start = Math.min(min, max);
   const end = Math.max(min, max);
 
